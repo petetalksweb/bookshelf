@@ -3,7 +3,7 @@ layout: post
 title: "Duped"
 subtitle: "Double Lives, False Identities, and the Con Man I Almost Married"
 authors: ["Abby Ellin"]
-categories: ["non fiction", "memoir", "true crime"]
+tags: ["non fiction", "memoir", "true crime"]
 rating: 3
 smallImage: "https://images-na.ssl-images-amazon.com/images/I/41Fdyo3RGRL._SL75_.jpg"
 mediumImage: "https://images-na.ssl-images-amazon.com/images/I/41Fdyo3RGRL._SL160_.jpg"

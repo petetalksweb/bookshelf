@@ -3,7 +3,7 @@ layout: post
 title: "My Year of Rest and Relaxation"
 subtitle: ""
 authors: ["Ottessa Moshfegh"]
-categories: ["fiction", "contemporary", "literary fiction"]
+tags: ["fiction", "contemporary", "literary fiction"]
 rating: 4
 smallImage: "https://images-na.ssl-images-amazon.com/images/I/513uyAYdssL._SL75_.jpg"
 mediumImage: "https://images-na.ssl-images-amazon.com/images/I/513uyAYdssL._SL160_.jpg"
